@@ -1,2 +1,2 @@
 # MY-REPOSITORY
-Side hustle internship
+First capstone project for Group 149 
